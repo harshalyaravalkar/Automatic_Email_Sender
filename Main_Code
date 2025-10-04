@@ -7,9 +7,6 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from tkinter import filedialog, messagebox, simpledialog
 
-your_email = "harshalyaravalkar4@gmail.com"
-your_password = "ximfogurnrrayctb"
-
 # Default email templates
 templates = {
     "Template 1": "Hello {Client_Name},\n\nWe are excited to share with you our new tool – the **Automatic Email Sender**.\nThis application reads an Excel file containing client details (like your name and email) and automatically sends personalized messages.  ",
