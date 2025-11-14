@@ -1,4 +1,4 @@
-# 📧 Automatic Email Sender (Tkinter GUI)
+<img width="1088" height="765" alt="image" src="https://github.com/user-attachments/assets/a5a26cc2-86c9-4299-8638-4ab272bbe36a" /># 📧 Automatic Email Sender (Tkinter GUI)
 
 A simple and efficient **Python desktop application** that automates sending personalized bulk emails using data from an Excel file.  
 It provides a **clean Tkinter GUI** to log in, upload data, create or edit templates, and send emails — all without needing to touch code.
@@ -45,6 +45,11 @@ Make sure your Excel file includes these exact columns:
 
 You can include placeholders in your templates (inside the text editor):
 <img width="660" height="744" alt="Screenshot 2025-10-17 171801" src="https://github.com/user-attachments/assets/d29699b3-380a-46f6-8fda-e0e6a1fc0043" />
+
+## Email Login Credentials
+You can use these credentials to log in when you install and try to use the AutoEmail.exe file
+**Gmail ID** — demouser012001@gmail.com
+**Login Password** — zccp bewk emvp bvwf
 
 ## ⚙️ Installation
 
