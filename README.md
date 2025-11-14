@@ -1,4 +1,4 @@
-<img width="1088" height="765" alt="image" src="https://github.com/user-attachments/assets/a5a26cc2-86c9-4299-8638-4ab272bbe36a" /># 📧 Automatic Email Sender (Tkinter GUI)
+# 📧 Automatic Email Sender (Tkinter GUI)
 
 A simple and efficient **Python desktop application** that automates sending personalized bulk emails using data from an Excel file.  
 It provides a **clean Tkinter GUI** to log in, upload data, create or edit templates, and send emails — all without needing to touch code.
