@@ -48,8 +48,8 @@ You can include placeholders in your templates (inside the text editor):
 
 ## Email Login Credentials
 You can use these credentials to log in when you install and try to use the AutoEmail.exe file
-**Gmail ID** — demouser012001@gmail.com
-**Login Password** — zccp bewk emvp bvwf
+- **Gmail ID** — demouser012001@gmail.com
+- **Login Password** — zccp bewk emvp bvwf
 
 ## ⚙️ Installation
 
