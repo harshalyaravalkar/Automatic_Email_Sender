@@ -46,6 +46,11 @@ Make sure your Excel file includes these exact columns:
 You can include placeholders in your templates (inside the text editor):
 <img width="660" height="744" alt="Screenshot 2025-10-17 171801" src="https://github.com/user-attachments/assets/d29699b3-380a-46f6-8fda-e0e6a1fc0043" />
 
+## Email Login Credentials
+You can use these credentials to log in when you install and try to use the AutoEmail.exe file
+- **Gmail ID** — demouser012001@gmail.com
+- **Login Password** — zccpbewkemvpbvwf
+
 ## ⚙️ Installation
 
 ### Step 1. Clone the Repository
